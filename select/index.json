@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "耐え難くも甘い季節（feat. 畠山美由紀）",
+  "base_artist": "冨田ラボ",
+  "createdAt": "2026-04-01T08:43:22.370249Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "耐え難くも甘い季節",
+      "artist": "冨田 ラボ",
+      "has_synced": false,
+      "path": "select/pl_01_耐え難くも甘い季節_冨田_ラボ.txt"
+    }
+  ]
+}
